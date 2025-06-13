@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "title": "Vegetable Nutrient Requirements",
+    "description": "Classification of commonly grown vegetables based on their nutrient (especially nitrogen) requirements. This helps in planning crop rotation for soil fertility management.",
+    "source": "Educational garden material (crop rotation guide)",
+    "categories": ["Heavy-feeder", "Medium-feeder", "Light-feeder"],
+    "note": "Potato appears in both heavy and medium feeder groups in different sources."
+  },
+  "data": {
+    "heavy_feeder": [
+      "Asparagus (perennial)",
+      "Broccoli",
+      "Brussels Sprouts",
+      "Cauliflower",
+      "Celery",
+      "Corn",
+      "Cucumber",
+      "Eggplant",
+      "Kale",
+      "Onion",
+      "Muskmelon",
+      "Potato",
+      "Pumpkin",
+      "Rhubarb",
+      "Squash",
+      "Tomato"
+    ],
+    "medium_feeder": [
+      "Beans",
+      "Beets",
+      "Cabbage",
+      "Carrot",
+      "Garlic",
+      "Kohlrabi",
+      "Leek",
+      "Lettuce",
+      "Parsnip",
+      "Pepper",
+      "Potato",
+      "Rutabaga",
+      "Spinach",
+      "Watermelon"
+    ],
+    "light_feeder": [
+      "Chard, Swiss",
+      "Herbs",
+      "Parsley",
+      "Peas",
+      "Radish",
+      "Turnip"
+    ]
+  }
+}

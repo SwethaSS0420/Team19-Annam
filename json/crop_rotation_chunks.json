@@ -1,0 +1,234 @@
+[
+  {
+    "rule": "Non leguminous crops should be followed by leguminous crops and vice/versa.",
+    "example": "green gram / wheat / maize. If preceding crops are legume or non/legume grown as intercrops or mixed crops, the succeeding crop may be legume or non legume or both."
+  },
+  {
+    "rule": "Restorative crops should be followed by exhaustive or non/restorative crops.",
+    "example": "seasame / cowpea / green gram / blackgram / groundnut."
+  },
+  {
+    "rule": "Leaf shedding crop should be followed by non/leaf shedding or less exhaustive crops.",
+    "example": "pulses / cotton / wheat / rice."
+  },
+  {
+    "rule": "Green manuring crop should be followed by grain crops.",
+    "example": "dhaincha / rice, green gram / cowpea / wheat / maize."
+  },
+  {
+    "rule": "Highly fertilized crops should be followed by non/fertilised crop.",
+    "example": "maize / black gram / gourds."
+  },
+  {
+    "rule": "Perennial or long duration crops should be followed by seasonal / restorative crops.",
+    "example": "napier / sugarcane / groundnut / cowpea / green gram."
+  },
+  {
+    "rule": "Fodder crops should be followed by field or vegetable crops.",
+    "example": "maize + cowpea / wheat / potato / cabbage / onion."
+  },
+  {
+    "rule": "Multicut crops should be succeeded by the seed crops.",
+    "example": "green gram / maize."
+  },
+  {
+    "rule": "Ratoon crops should be followed by deep rooted restorative crops.",
+    "example": "sugarcane / jowar / pigeonpea / Lucerne / cowpea."
+  },
+  {
+    "rule": "Fouling crops should be followed by cleaning crops.",
+    "example": "jowar / maize / potato / groundnut."
+  },
+  {
+    "rule": "Cleaning crops should be followed by nursery crops.",
+    "example": "potato / colocasia / turmeric / beet / carrot / rice nursery / onion nursery / tobacco nursery / vegetable nursery."
+  },
+  {
+    "rule": "Deep rooted crops should be succeeded by shallow rooted crops.",
+    "example": "cotton / castor / pigeonpea / potato / lentil / green gram."
+  },
+  {
+    "rule": "Deep tillage crops should be followed by zero or minimal tillage crops.",
+    "example": "potato / radish / sweet potato / sugarcane / black gram / green gram / green manuring crops."
+  },
+  {
+    "rule": "Dicot crops should be followed by monocot crops.",
+    "example": "potato / mustard / groundnut / pulses / rice / wheat / sugarcane / jowar. Or dicot + monocot crops should be followed by dicot + monocot or either dicot or monocot crops."
+  },
+  {
+    "rule": "Stiff stubble leaving crops should be followed by minimum intercultivation requiring crops.",
+    "example": "sugarcane / sorghum / cotton / pigeonpea / fodder crops."
+  },
+  {
+    "rule": "The crops of wet (anaerobic) soil should be followed by the crops of dry (aerobic).",
+    "example": "rice / Bengal gram / Lathyrus / pulses / oilseeds. Helps reduce difficult/to/control weeds."
+  },
+  {
+    "rule": "The crops susceptible to soil/borne pests and pathogens should be followed by tolerant / break / trap crops.",
+    "example": "sugarcane / marigold (nematodes), tomato / brinjal / tobacco / potato / rice / pulses (Orobanche), jowar / castor (Striga), berseem / oats (Cuscuta)."
+  },
+  {
+    "rule": "The crops with problematic weeds should be followed by cleaning crops, multicut crops, or dissimilar crops.",
+    "example": "wheat / wet rice (Phalaris minor), berseem / potato / boro rice (Cichorium intybus), mustard / early potato (Cleome viscosa), rice / jute / sugarcane / vegetable / maize + cowpea (Echinochloa crusgalli), jute / multicut fodder / vegetable or Corchorus acutangulus."
+  },
+  {
+    "rule": "Pasture crops should be followed by fodder or seed crop.",
+    "example": "para grass / maize + cowpea / cowpea / rice bean / tetrakalai."
+  },
+  {
+    "rule": "Silage / hay / cleaning crops should be followed by seed crops.",
+    "example": "maize / groundnut / onion, cowpea / jowar (for seed crops)."
+  },
+  {
+    "rule": "Crops with the same symbiotic / associated microbes should be followed by common host crops.",
+    "example": "Rhizobium melilote / lucerna, sweet clover, fenugreek; R. trifolli / berseem, Persian clover; R. leguminosorum / peas, lentil, Lathyrus; R. phaseoli / beans, green gram, pillipesara, black gram; R. lupine / Lupines; R. japonicum / cowpea, pigeonpea, guar, sunhemp, Bengal gram, soybean, kudzu."
+  },
+  {
+    "rule": "Follow a legume crop with a high-nitrogen-demanding crop.",
+    "example": "E.g., follow alfalfa or clover with corn or leafy greens."
+  },
+  {
+    "rule": "Grow less-nitrogen-demanding crops in the second or third year after a legume sod.",
+    "example": "Root vegetables or grains like oats can follow legumes after year 1."
+  },
+  {
+    "rule": "Grow annual crops for only one year in a particular location.",
+    "example": "Avoid planting tomatoes or squash in the same bed every year."
+  },
+  {
+    "rule": "Don’t follow one crop with another closely related species.",
+    "example": "Avoid planting potato after tomato (both are Solanaceae)."
+  },
+  {
+    "rule": "Use crop sequences that promote healthier crops.",
+    "example": "Combine nitrogen-fixers with high-demand feeders in alternating years."
+  },
+  {
+    "rule": "Use crop sequences that aid in controlling weeds.",
+    "example": "Use cover crops or fast-growing competitive crops between slow growers."
+  },
+  {
+    "rule": "Use longer periods of perennial crops on sloping land.",
+    "example": "Plant alfalfa or clover for 2-3 years on erosion-prone hills."
+  },
+  {
+    "rule": "Try to grow a deep-rooted crop as part of the rotation.",
+    "example": "Carrots, sunflowers, or daikon radish can help break compacted soil."
+  },
+  {
+    "rule": "Grow some crops that will leave a significant amount of residue.",
+    "example": "Corn or sorghum leaves behind organic matter to build soil."
+  },
+  {
+    "rule": "When growing a wide mix of crops, group them into blocks by family, timing, type, nutrient needs, or cultural practices.",
+    "example": "Plant all Brassicas together early in the season; group legumes with similar watering needs."
+  },
+  {
+    "rule": "Use rotation with cover crops to improve soil and weed/pest management.",
+    "example": "Plant vetch or rye in off-seasons, roll/crimp them to mulch for the next crop."
+  },
+  {
+    "rule": "In perennial systems, rotate cover crops in alleys between perennial crops.",
+    "example": "Alternate alleys with different cover crops, switching them each year for biodiversity and frost management."
+  },
+  {
+    "rule": "Avoid planting the same vegetable in the same spot each year.",
+    "example": "Rotate crops annually to prevent build-up of pests and diseases that overwinter in the soil."
+  },
+  {
+    "rule": "Avoid planting crops from the same family in the same location in consecutive years.",
+    "example": "Do not follow tomato with eggplant, as both are Solanaceae and share pests/diseases."
+  },
+  {
+    "rule": "Wait 3 to 5 years before replanting the same crop (or family) in the same location.",
+    "example": "Plant lettuce where you grew tomatoes only after at least 3 years."
+  },
+  {
+    "rule": "Rotate crops by nutrient demand: heavy-feeder → medium-feeder → light-feeder.",
+    "example": "Year 1: broccoli (heavy), Year 2: carrots (medium), Year 3: beans (light)."
+  },
+  {
+    "rule": "Improve soil fertility before growing another heavy feeder.",
+    "example": "Add compost or grow green manure before restarting the rotation."
+  },
+  {
+    "rule": "Use legumes to boost nitrogen levels in the soil.",
+    "example": "Plant peas or beans to enrich the soil with nitrogen via rhizobia."
+  },
+  {
+    "rule": "Inoculate legumes in soils where they haven’t been grown before.",
+    "example": "Use rhizobial inoculants when planting beans in new garden beds."
+  },
+  {
+    "rule": "Use companion plants to attract beneficial insects.",
+    "example": "Plant dill, fennel, or yarrow to attract parasitic wasps and predatory flies."
+  },
+  {
+    "rule": "Use plants with strong scents to repel pests.",
+    "example": "Basil, mint, or coriander may confuse or repel pests attacking your main crops."
+  },
+  {
+    "rule": "Use marigolds to reduce nematodes in the soil.",
+    "example": "Plant densely and till marigolds into the soil after harvest."
+  },
+  {
+    "rule": "Pair crops to make efficient use of space and nutrients.",
+    "example": "Plant deep-rooted crops with shallow-rooted ones to access different soil layers."
+  },
+  {
+    "rule": "Avoid planting related crops close together.",
+    "example": "Don't plant broccoli near cabbage—they attract the same pests."
+  },
+  {
+    "rule": "Avoid planting tall crops where they will shade sun-loving crops.",
+    "example": "Don’t grow corn next to lettuce unless you want partial shade."
+  },
+  {
+    "rule": "Be cautious with allelopathic plants that release root toxins.",
+    "example": "Sunflower and rye grass can inhibit the growth of nearby sensitive plants."
+  }, 
+   {
+    "rule": "Avoid planting crops with allelopathic effects before sensitive crops.",
+    "example": "Avoid planting sorghum before lettuce due to allelopathy (growth inhibition)."
+  },
+  {
+    "rule": "Alternate between leaf, fruit, and root crops.",
+    "example": "Leafy vegetables → fruiting crops → root crops → legumes."
+  },
+  {
+    "rule": "Rotate heavy feeders with soil-resting or low-demand crops.",
+    "example": "After corn or broccoli, grow turnips or mustard to reduce nutrient drain."
+  },
+  {
+    "rule": "Avoid repeating disease-prone crops in the same bed within 3 years.",
+    "example": "Don’t plant cucumbers or melons in the same spot where powdery mildew occurred."
+  },
+  {
+    "rule": "Sequence shallow cultivators after deep tillage crops to reduce effort.",
+    "example": "Grow lentils after potatoes, since the soil will already be loosened."
+  },
+  {
+    "rule": "Use quick-maturing crops to fill seasonal gaps and enhance diversity.",
+    "example": "Grow radish or baby spinach between two longer crops like tomatoes and beans."
+  },
+  {
+    "rule": "Avoid planting heavy feeders in the same spot in consecutive years to prevent nutrient depletion.",
+    "example": "Don’t grow corn or tomatoes in the same bed two years in a row. Rotate with legumes like peas or beans."
+  },
+  {
+    "rule": "Follow heavy feeders with nitrogen-fixing or light-feeding crops to restore soil balance.",
+    "example": "After growing broccoli or eggplant, rotate with peas, Swiss chard, or parsley."
+  },
+  {
+    "rule": "Use medium feeders as transition crops between heavy and light feeders in a rotation cycle.",
+    "example": "Plant carrots or beets after corn, before moving on to light feeders like radish or turnip."
+  },
+  {
+    "rule": "Include legumes and light-feeders regularly in the rotation to minimize external fertilizer inputs.",
+    "example": "Grow peas or parsley every few years to replenish nitrogen and reduce soil strain."
+  },
+  {
+    "rule": "Plan your crop rotation cycle using nutrient tiers: heavy → medium → light → nitrogen fixer.",
+    "example": "Year 1: Corn (heavy), Year 2: Carrot (medium), Year 3: Radish (light), Year 4: Peas (fixer)."
+  }
+]

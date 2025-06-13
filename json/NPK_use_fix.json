@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "title": "Crops by NPK Effect on Soil",
+    "description": "Categorization of Indian crops based on whether they deplete or replenish Nitrogen (N), Phosphorus (P), and Potassium (K) in the soil. Useful for nutrient-based crop rotation planning.",
+    "note": "Legumes generally fix Nitrogen. Most cereals and vegetables are N-depleting. Few crops affect P or K significantly unless intercropped or fertilized accordingly."
+  },
+  "depleting": {
+    "high_N_demand": [
+      "Rice",
+      "Wheat",
+      "Maize",
+      "Sugarcane",
+      "Tomato",
+      "Potato",
+      "Brinjal (Eggplant)",
+      "Cabbage",
+      "Cauliflower",
+      "Chilli",
+      "Cotton",
+      "Banana"
+    ],
+    "high_P_demand": [
+      "Maize",
+      "Groundnut",
+      "Sunflower",
+      "Soybean",
+      "Pulses (general)"
+    ],
+    "high_K_demand": [
+      "Banana",
+      "Potato",
+      "Tomato",
+      "Coconut",
+      "Sugarcane"
+    ]
+  },
+  "fixing": {
+    "N_fixing_legumes": [
+        "Green gram (Moong)",
+        "Black gram (Urad)",
+        "Chickpea (Chana)",
+        "Pigeon pea (Arhar)",
+        "Lentil (Masoor)",
+        "Cowpea (Lobia)",
+        "Pea",
+        "Soybean",
+        "Groundnut (Peanut)",
+        "Kidney beans",
+        "Moth beans",
+        "Broad beans",
+        "Cluster beans (Guar)"
+    ],
+    "mobilizes": {
+        "green_manure_and_deep_root_crops": [
+        "Sunhemp",
+        "Dhaincha",
+        "Mustard (as green manure)",
+        "Sesbania",
+        "Lucerne"
+        ],
+        "nutrient_uptake_enhancers": [
+        "Buckwheat",
+        "Alfalfa",
+        "Marigold (for soil conditioning)",
+        "Radish (for bio-drilling and soil loosening)"
+        ]
+    }
+  }
+}

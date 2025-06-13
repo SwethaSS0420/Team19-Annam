@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "title": "Plant Families and Crops in India",
+    "description": "Classification of Indian crops by botanical family, useful for crop rotation planning and agronomy applications.",
+    "source": "TNAU, ICAR, and verified Indian agriculture resources",
+    "note": "Includes cereal crops, pulses, fruits, vegetables, spices, plantation crops, and industrial crops."
+  },
+  "plant_families": {
+    "Fabaceae (Leguminosae)": [
+      "Pigeon pea (Arhar/Tur)",
+      "Green gram (Moong)",
+      "Black gram (Urad)",
+      "Chickpea (Chana)",
+      "Soybean",
+      "Pea",
+      "Cowpea (Lobia)",
+      "Lentil (Masoor)",
+      "Groundnut (Peanut)",
+      "Kidney beans",
+      "Moth beans",
+      "Mungbean"
+    ],
+    "Solanaceae": [
+      "Tomato",
+      "Brinjal (Eggplant)",
+      "Potato",
+      "Chilli",
+      "Capsicum",
+      "Tobacco"
+    ],
+    "Brassicaceae (Cruciferae)": [
+      "Cabbage",
+      "Cauliflower",
+      "Mustard",
+      "Radish",
+      "Turnip"
+    ],
+    "Poaceae (Gramineae)": [
+      "Rice",
+      "Wheat",
+      "Maize (Corn)",
+      "Barley",
+      "Sorghum (Jowar)",
+      "Pearl millet (Bajra)",
+      "Finger millet (Ragi)",
+      "Little millet",
+      "Foxtail millet",
+      "Kodo millet",
+      "Barnyard millet",
+      "Proso millet",
+      "Sugarcane"
+    ],
+    "Cucurbitaceae": [
+      "Pumpkin",
+      "Cucumber",
+      "Bottle gourd (Lauki)",
+      "Bitter gourd (Karela)",
+      "Ridge gourd (Turai)",
+      "Ash gourd",
+      "Snake gourd",
+      "Watermelon",
+      "Muskmelon"
+    ],
+    "Rutaceae": [
+      "Orange",
+      "Lemon",
+      "Lime",
+      "Citrus fruits"
+    ],
+    "Myrtaceae": [
+      "Guava",
+      "Jamun"
+    ],
+    "Musaceae": [
+      "Banana"
+    ],
+    "Lythraceae": [
+      "Pomegranate"
+    ],
+    "Anacardiaceae": [
+      "Mango"
+    ],
+    "Vitaceae": [
+      "Grapes"
+    ],
+    "Caricaceae": [
+      "Papaya"
+    ],
+    "Arecaceae": [
+      "Coconut",
+      "Arecanut",
+      "Oil palm"
+    ],
+    "Malvaceae": [
+      "Okra (Bhindi)",
+      "Cotton",
+      "Hibiscus",
+      "Jute"
+    ],
+    "Rubiaceae": [
+      "Coffee"
+    ],
+    "Amaranthaceae": [
+      "Amaranth (Chaulai)",
+      "Spinach (Palak)",
+      "Beetroot"
+    ],
+    "Apiaceae (Umbelliferae)": [
+      "Carrot",
+      "Coriander (Dhania)",
+      "Celery",
+      "Fennel (Saunf)",
+      "Cumin (Jeera)",
+      "Ajwain"
+    ],
+    "Alliaceae (now Amaryllidaceae)": [
+      "Onion",
+      "Garlic",
+      "Leek"
+    ],
+    "Zingiberaceae": [
+      "Ginger",
+      "Turmeric"
+    ],
+    "Convolvulaceae": [
+      "Sweet potato",
+      "Ipomoea"
+    ],
+    "Liliaceae": [
+      "Asparagus",
+      "Aloe vera"
+    ]
+  }
+}

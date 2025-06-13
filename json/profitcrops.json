@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "State-wise Profitable Crops in India",
+    "description": "Most profitable crops for major Indian states based on farmer reports, export value, and state agricultural output.",
+    "sources": [ "SellersBay India", "Times of India", "Reuters", "Agrifarming.in", "Wikipedia" ]
+  },
+  "states": [
+    {
+      "state": "Telangana",
+      "profitable_crops": [
+        {
+          "crop": "Cotton",
+          "reason": "Reliable MSP and strong textile demand; high yields"
+        },
+        {
+          "crop": "Maize",
+          "reason": "Growing acreage and profits due to ethanol demand"
+        }
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "profitable_crops": [
+        {
+          "crop": "Sugarcane",
+          "reason": "High net profit (~₹1.47 lakh/ha); good market demand"
+        },
+        {
+          "crop": "Banana",
+          "reason": "High yields (~19k kg/acre) and strong domestic/international demand"
+        }
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "profitable_crops": [
+        {
+          "crop": "Dragon fruit",
+          "reason": "High profit (₹9 lakh/acre); low water requirement, export potential"
+        },
+        {
+          "crop": "Cotton",
+          "reason": "Major cash crop with resilient organic market"
+        },
+        {
+          "crop": "Banana, Grapes, Pomegranate",
+          "reason": "Export-led growth; fresh fruit exports rose significantly"
+        }
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "profitable_crops": [
+        {
+          "crop": "Sugarcane",
+          "reason": "Strong farm income growth; contributes 19.4% of agri-GDP"
+        },
+        {
+          "crop": "Maize",
+          "reason": "Expanding area & profits from ethanol demand"
+        },
+        {
+          "crop": "Horticultural crops (mango, orange, sweet potato)",
+          "reason": "Cash crops significantly uplift farm incomes"
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "profitable_crops": [
+        {
+          "crop": "Strawberry, Dragon fruit",
+          "reason": "High-value horticulture yields ₹5-6 lakh/acre profit"
+        },
+        {
+          "crop": "Wheat",
+          "reason": "High productivity; staple crop with stable returns"
+        }
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "profitable_crops": [
+        {
+          "crop": "Potato",
+          "reason": "Second-largest producer; high GSDP share from vegetables"
+        },
+        {
+          "crop": "Tea, Jute",
+          "reason": "High-value cash crops with strong domestic/international markets"
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "profitable_crops": [
+        {
+          "crop": "Pepper",
+          "reason": "Kerala produces 97% of India's pepper; spice is high value"
+        },
+        {
+          "crop": "Cardamom, Coconut, Rubber",
+          "reason": "Leading national share; high income potential"
+        }
+      ]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "profitable_crops": [
+        {
+          "crop": "Apple",
+          "reason": "Major cash crop with high income per hectare"
+        },
+        {
+          "crop": "High-density apple",
+          "reason": "Highest net returns among fruit crops studied"
+        }
+      ]
+    }
+  ]
+}

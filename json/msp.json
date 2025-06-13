@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Indian MSP Crops with Prices",
+    "description": "Major MSP-supported crops across Kharif and Rabi seasons with MSP values for 2024-25 (Kharif) and 2025-26 (Rabi), including MSP increases.",
+    "source": "CACP, Press Information Bureau, ET Now, Times of India"
+  },
+  "kharif_crops": [
+    {"crop": "Paddy (Common)", "msp": 2300, "increase": 117, "unit": "Rs/quintal"},
+    {"crop": "Paddy (Grade A)", "msp": 2320, "increase": 117, "unit": "Rs/quintal"},
+    {"crop": "Jowar (Hybrid)", "msp": 3371, "increase": 191, "unit": "Rs/quintal"},
+    {"crop": "Jowar (Maldandi)", "msp": 3421, "increase": 196, "unit": "Rs/quintal"},
+    {"crop": "Bajra", "msp": 2625, "increase": 125, "unit": "Rs/quintal"},
+    {"crop": "Ragi", "msp": 4290, "increase": 444, "unit": "Rs/quintal"},
+    {"crop": "Maize", "msp": 2225, "increase": 135, "unit": "Rs/quintal"},
+    {"crop": "Tur/Arhar", "msp": 7550, "increase": 550, "unit": "Rs/quintal"},
+    {"crop": "Moong", "msp": 8682, "increase": 124, "unit": "Rs/quintal"},
+    {"crop": "Urad", "msp": 7400, "increase": 450, "unit": "Rs/quintal"},
+    {"crop": "Groundnut (in-shell)", "msp": 6783, "increase": 406, "unit": "Rs/quintal"},
+    {"crop": "Sunflower seed", "msp": 7280, "increase": 520, "unit": "Rs/quintal"},
+    {"crop": "Soybean (Yellow)", "msp": 4892, "increase": 292, "unit": "Rs/quintal"},
+    {"crop": "Sesamum", "msp": 9267, "increase": 632, "unit": "Rs/quintal"},
+    {"crop": "Nigerseed", "msp": 8717, "increase": 983, "unit": "Rs/quintal"},
+    {"crop": "Cotton (Medium staple)", "msp": 7121, "increase": 501, "unit": "Rs/quintal"},
+    {"crop": "Cotton (Long staple)", "msp": 7521, "increase": 501, "unit": "Rs/quintal"}
+  ],
+  "rabi_crops": [
+    {"crop": "Wheat", "msp": 2425, "increase": 150, "unit": "Rs/quintal"},
+    {"crop": "Barley", "msp": 1980, "increase": 130, "unit": "Rs/quintal"},
+    {"crop": "Gram (Chickpea)", "msp": 5650, "increase": 210, "unit": "Rs/quintal"},
+    {"crop": "Masur (Lentil)", "msp": 6700, "increase": 275, "unit": "Rs/quintal"},
+    {"crop": "Rapeseed & Mustard", "msp": 5950, "increase": 300, "unit": "Rs/quintal"},
+    {"crop": "Safflower", "msp": 5940, "increase": 140, "unit": "Rs/quintal"},
+    {"crop": "Toria", "msp": 5650, "increase": 200, "unit": "Rs/quintal"}
+  ],
+  "commercial_crops": [
+    {"crop": "Raw Jute", "msp": 5335, "increase": 285, "unit": "Rs/quintal"},
+    {"crop": "Copra (Milling)", "msp": 11160, "increase": 300, "unit": "Rs/quintal"},
+    {"crop": "Copra (Ball)", "msp": 12000, "increase": 250, "unit": "Rs/quintal"},
+    {"crop": "De-husked Coconut", "msp": 3013, "increase": 83, "unit": "Rs/quintal"},
+    {"crop": "Sugarcane (FRP)", "price": 340, "unit": "Rs/quintal"}
+  ]
+}
