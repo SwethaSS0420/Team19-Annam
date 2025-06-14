@@ -1,122 +1,138 @@
-[
-  {
-    "family": "Fabaceae (Leguminosae)",
-    "followed_by": ["Solanaceae", "Poaceae", "Brassicaceae"],
-    "reason": "Legumes fix nitrogen, enriching soil for high-demand crops.",
-    "example": "After chickpea or moong, plant tomato or maize."
+{
+  "metadata": {
+    "title": "Crop Rotation Recommendations by Plant Family",
+    "description": "Detailed crop rotation guidance categorized by plant families, designed to enhance soil fertility, reduce pest buildup, and optimize nutrient cycling.",
+    "source": "Compiled manually from agronomy research and traditional practices",
+    "region": "India (tropical/subtropical)",
+    "keywords": ["crop rotation", "plant families", "soil fertility", "pest control", "nutrient management", "agriculture", "India", "tropical", "subtropical"],
+    "total_families": 20,
+    "fields": {
+      "family": "Botanical family of the crop (e.g., Fabaceae, Poaceae)",
+      "followed_by": "Suggested crop families that should follow this crop in rotation",
+      "reason": "Agronomic reason for the suggested rotation (e.g., nitrogen fixation, pest control)",
+      "example": "Practical crop sequence example (e.g., 'After chickpea, plant maize')"
+    }    
   },
-  {
-    "family": "Solanaceae",
-    "followed_by": ["Fabaceae", "Poaceae", "Amaranthaceae"],
-    "reason": "Heavy feeders; need nitrogen fixers or cereals after.",
-    "example": "After tomato or brinjal, plant moong or wheat."
-  },
-  {
-    "family": "Brassicaceae",
-    "followed_by": ["Poaceae", "Fabaceae", "Cucurbitaceae"],
-    "reason": "Susceptible to soil pathogens; cereals and legumes break pest cycles.",
-    "example": "After mustard or cabbage, plant maize or green gram."
-  },
-  {
-    "family": "Poaceae (Gramineae)",
-    "followed_by": ["Fabaceae", "Brassicaceae", "Amaranthaceae"],
-    "reason": "Cereals exhaust soil nitrogen; follow with nitrogen fixers or light feeders.",
-    "example": "After rice or bajra, plant lentils or mustard."
-  },
-  {
-    "family": "Cucurbitaceae",
-    "followed_by": ["Brassicaceae", "Fabaceae", "Poaceae"],
-    "reason": "Vine crops are pest-prone; cereals and legumes reduce disease load.",
-    "example": "After cucumber or gourd, plant chickpea or wheat."
-  },
-  {
-    "family": "Apiaceae (Umbelliferae)",
-    "followed_by": ["Fabaceae", "Poaceae"],
-    "reason": "Light feeders; benefit from rotation with cereals or legumes.",
-    "example": "After carrot or coriander, plant moong or maize."
-  },
-  {
-    "family": "Amaranthaceae",
-    "followed_by": ["Poaceae", "Fabaceae"],
-    "reason": "Shallow-rooted leafy crops do well before/after deep-rooted cereals/legumes.",
-    "example": "After spinach, plant urad or wheat."
-  },
-  {
-    "family": "Alliaceae (Amaryllidaceae)",
-    "followed_by": ["Fabaceae", "Poaceae"],
-    "reason": "Follow onions/garlic with legumes or cereals to maintain fertility.",
-    "example": "After garlic, plant lentil or barley."
-  },
-  {
-    "family": "Malvaceae",
-    "followed_by": ["Fabaceae", "Poaceae", "Amaranthaceae"],
-    "reason": "Industrial crops like cotton are heavy feeders; follow with nitrogen fixers or leafy crops.",
-    "example": "After cotton or okra, grow cowpea or spinach."
-  },
-  {
-    "family": "Zingiberaceae",
-    "followed_by": ["Fabaceae", "Poaceae"],
-    "reason": "Spices like turmeric benefit from legumes or cereals next.",
-    "example": "After turmeric or ginger, grow mungbean or maize."
-  },
-  {
-    "family": "Convolvulaceae",
-    "followed_by": ["Fabaceae", "Brassicaceae"],
-    "reason": "Sweet potato prefers nitrogen-fixer or crucifer follow-ups.",
-    "example": "After sweet potato, plant chickpea or cabbage."
-  },
-  {
-    "family": "Asteraceae",
-    "followed_by": ["Fabaceae", "Poaceae"],
-    "reason": "Lettuce and sunflower benefit from cereals or legumes next.",
-    "example": "After sunflower, grow urad or sorghum."
-  },
-  {
-    "family": "Musaceae",
-    "followed_by": ["Fabaceae", "Amaranthaceae"],
-    "reason": "Banana is long duration; follow with short legumes or leafy crops.",
-    "example": "After banana, plant green gram or amaranth."
-  },
-  {
-    "family": "Lythraceae",
-    "followed_by": ["Fabaceae", "Amaranthaceae"],
-    "reason": "Pomegranate follows same logic as orchard crops — restorative intercrops needed.",
-    "example": "After or between pomegranate rows, grow cowpea or spinach."
-  },
-  {
-    "family": "Anacardiaceae",
-    "followed_by": ["Fabaceae"],
-    "reason": "Mango orchards are often intercropped with legumes to improve soil.",
-    "example": "Grow green gram or black gram under mango."
-  },
-  {
-    "family": "Vitaceae",
-    "followed_by": ["Fabaceae"],
-    "reason": "Grapevines benefit from leguminous cover crops for nitrogen.",
-    "example": "Grow urad or clover between vineyard rows."
-  },
-  {
-    "family": "Caricaceae",
-    "followed_by": ["Amaranthaceae", "Fabaceae"],
-    "reason": "Papaya is shallow-rooted; follow with leafy greens or legumes.",
-    "example": "After papaya, grow spinach or mungbean."
-  },
-  {
-    "family": "Arecaceae",
-    "followed_by": ["Fabaceae", "Zingiberaceae"],
-    "reason": "Coconut-based systems often intercrop with legumes or spices.",
-    "example": "Under coconut, grow turmeric or cowpea."
-  },
-  {
-    "family": "Rubiaceae",
-    "followed_by": ["Fabaceae", "Zingiberaceae"],
-    "reason": "Coffee plantations often intercropped with shade-tolerant legumes/spices.",
-    "example": "Between coffee plants, grow beans or ginger."
-  },
-  {
-    "family": "Liliaceae",
-    "followed_by": ["Fabaceae"],
-    "reason": "Follow asparagus or aloe vera with legumes for nutrient recovery.",
-    "example": "After aloe vera, grow chickpea or lentil."
-  }
-]
+  "data": [
+    {
+      "family": "Fabaceae (Leguminosae)",
+      "followed_by": ["Solanaceae", "Poaceae", "Brassicaceae"],
+      "reason": "Legumes fix nitrogen, enriching soil for high-demand crops.",
+      "example": "After chickpea or moong, plant tomato or maize."
+    },
+    {
+      "family": "Solanaceae",
+      "followed_by": ["Fabaceae", "Poaceae", "Amaranthaceae"],
+      "reason": "Heavy feeders; need nitrogen fixers or cereals after.",
+      "example": "After tomato or brinjal, plant moong or wheat."
+    },
+    {
+      "family": "Brassicaceae",
+      "followed_by": ["Poaceae", "Fabaceae", "Cucurbitaceae"],
+      "reason": "Susceptible to soil pathogens; cereals and legumes break pest cycles.",
+      "example": "After mustard or cabbage, plant maize or green gram."
+    },
+    {
+      "family": "Poaceae (Gramineae)",
+      "followed_by": ["Fabaceae", "Brassicaceae", "Amaranthaceae"],
+      "reason": "Cereals exhaust soil nitrogen; follow with nitrogen fixers or light feeders.",
+      "example": "After rice or bajra, plant lentils or mustard."
+    },
+    {
+      "family": "Cucurbitaceae",
+      "followed_by": ["Brassicaceae", "Fabaceae", "Poaceae"],
+      "reason": "Vine crops are pest-prone; cereals and legumes reduce disease load.",
+      "example": "After cucumber or gourd, plant chickpea or wheat."
+    },
+    {
+      "family": "Apiaceae (Umbelliferae)",
+      "followed_by": ["Fabaceae", "Poaceae"],
+      "reason": "Light feeders; benefit from rotation with cereals or legumes.",
+      "example": "After carrot or coriander, plant moong or maize."
+    },
+    {
+      "family": "Amaranthaceae",
+      "followed_by": ["Poaceae", "Fabaceae"],
+      "reason": "Shallow-rooted leafy crops do well before/after deep-rooted cereals/legumes.",
+      "example": "After spinach, plant urad or wheat."
+    },
+    {
+      "family": "Alliaceae (Amaryllidaceae)",
+      "followed_by": ["Fabaceae", "Poaceae"],
+      "reason": "Follow onions/garlic with legumes or cereals to maintain fertility.",
+      "example": "After garlic, plant lentil or barley."
+    },
+    {
+      "family": "Malvaceae",
+      "followed_by": ["Fabaceae", "Poaceae", "Amaranthaceae"],
+      "reason": "Industrial crops like cotton are heavy feeders; follow with nitrogen fixers or leafy crops.",
+      "example": "After cotton or okra, grow cowpea or spinach."
+    },
+    {
+      "family": "Zingiberaceae",
+      "followed_by": ["Fabaceae", "Poaceae"],
+      "reason": "Spices like turmeric benefit from legumes or cereals next.",
+      "example": "After turmeric or ginger, grow mungbean or maize."
+    },
+    {
+      "family": "Convolvulaceae",
+      "followed_by": ["Fabaceae", "Brassicaceae"],
+      "reason": "Sweet potato prefers nitrogen-fixer or crucifer follow-ups.",
+      "example": "After sweet potato, plant chickpea or cabbage."
+    },
+    {
+      "family": "Asteraceae",
+      "followed_by": ["Fabaceae", "Poaceae"],
+      "reason": "Lettuce and sunflower benefit from cereals or legumes next.",
+      "example": "After sunflower, grow urad or sorghum."
+    },
+    {
+      "family": "Musaceae",
+      "followed_by": ["Fabaceae", "Amaranthaceae"],
+      "reason": "Banana is long duration; follow with short legumes or leafy crops.",
+      "example": "After banana, plant green gram or amaranth."
+    },
+    {
+      "family": "Lythraceae",
+      "followed_by": ["Fabaceae", "Amaranthaceae"],
+      "reason": "Pomegranate follows same logic as orchard crops — restorative intercrops needed.",
+      "example": "After or between pomegranate rows, grow cowpea or spinach."
+    },
+    {
+      "family": "Anacardiaceae",
+      "followed_by": ["Fabaceae"],
+      "reason": "Mango orchards are often intercropped with legumes to improve soil.",
+      "example": "Grow green gram or black gram under mango."
+    },
+    {
+      "family": "Vitaceae",
+      "followed_by": ["Fabaceae"],
+      "reason": "Grapevines benefit from leguminous cover crops for nitrogen.",
+      "example": "Grow urad or clover between vineyard rows."
+    },
+    {
+      "family": "Caricaceae",
+      "followed_by": ["Amaranthaceae", "Fabaceae"],
+      "reason": "Papaya is shallow-rooted; follow with leafy greens or legumes.",
+      "example": "After papaya, grow spinach or mungbean."
+    },
+    {
+      "family": "Arecaceae",
+      "followed_by": ["Fabaceae", "Zingiberaceae"],
+      "reason": "Coconut-based systems often intercrop with legumes or spices.",
+      "example": "Under coconut, grow turmeric or cowpea."
+    },
+    {
+      "family": "Rubiaceae",
+      "followed_by": ["Fabaceae", "Zingiberaceae"],
+      "reason": "Coffee plantations often intercropped with shade-tolerant legumes/spices.",
+      "example": "Between coffee plants, grow beans or ginger."
+    },
+    {
+      "family": "Liliaceae",
+      "followed_by": ["Fabaceae"],
+      "reason": "Follow asparagus or aloe vera with legumes for nutrient recovery.",
+      "example": "After aloe vera, grow chickpea or lentil."
+    }
+  ]
+}
