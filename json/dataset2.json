@@ -4,6 +4,7 @@
     "description": "A structured dataset of recommended crop varieties with season duration and suitable agro-climatic zones. Useful for agronomy planning, zone-wise recommendations, and variety lookup.",
     "source": "Compiled from official agricultural research data and regional agronomy trials.",
     "region": "India (state-wise, zone-specific)"
+    
   },
   "fields": [
     {

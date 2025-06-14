@@ -11,6 +11,7 @@
       "followed_by": "Suggested crop families that should follow this crop in rotation",
       "reason": "Agronomic reason for the suggested rotation (e.g., nitrogen fixation, pest control)",
       "example": "Practical crop sequence example (e.g., 'After chickpea, plant maize')"
+      
     }    
   },
   "data": [
