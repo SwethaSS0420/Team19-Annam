@@ -19,6 +19,56 @@
       ]
     },
     {
+      "state": "Gujarat",
+      "profitable_crops": [
+        {
+          "crop": "Cotton",
+          "reason": "Largest producer in India; strong MSP and infrastructure support"
+        },
+        {
+          "crop": "Groundnut",
+          "reason": "Accounts for about 43 % of India’s total; MSP-backed oilseed with stable returns"
+        },
+        {
+          "crop": "Banana, Mango, Papaya, Guava",
+          "reason": "Major horticulture output with cold-storage & export infrastructure"
+        },
+        {
+          "crop": "Date palm",
+          "reason": "Subsidy-supported expansion in Kutch; among top producing states"
+        },
+        {
+          "crop": "Dragon fruit",
+          "reason": "Emerging high‑value crop with subsidy support; export quality Kamalam"
+        }
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "profitable_crops": [
+        {
+          "crop": "Pearl millet (Bajra)",
+          "reason": "National leader, ~44 % of India’s production; drought-resilient staple"
+        },
+        {
+          "crop": "Moth bean, Guar, Mustard",
+          "reason": "Top in pulses and oilseeds; Rajasthan leads in moth bean, guar and mustard"
+        },
+        {
+          "crop": "Wheat, Barley, Sugarcane, Cotton, Tobacco",
+          "reason": "Major cereal and cash crops enabled by irrigation systems"
+        },
+        {
+          "crop": "Olives",
+          "reason": "Successful high-value horticulture initiative (first commercial output in 2012)"
+        },
+        {
+          "crop": "Spices (Cumin, Coriander, Fenugreek, Ginger, Chilli, Garlic)",
+          "reason": "Leading state in spices production; strong production cluster in agro-climatic zones"
+        }
+      ]
+    },
+    {
       "state": "Karnataka",
       "profitable_crops": [
         {
